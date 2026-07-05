@@ -1,45 +1,47 @@
-<h1 align="center">Hi there, I'm MOstar-Shid Billah👋</h1>
+<h1 align="center">
+  Hi 👋 I'm <span style="color:#58A6FF;">Mostar-Shid Billah</span>
+</h1>
 
 <h3 align="center">
-Computer Science & Engineering Student | Passionate Full Stack Web Developer | AI/ML Enthusiast
+Computer Science & Engineering Student • Full Stack Web Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Machine+Learning+Developer;Full+Stack+Web+Developer;Python+%7C+C%2B%2B+%7C+JavaScript;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Full+Stack+Web+Developer;AI/ML+Enthusiast;Always+Learning+New+Things..." />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mostarshid&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🎓 Computer Science Student
-- 💻 Passionate about AI & Machine Learning
-- 🔥 Passionate Full Stack Developer
-- 🌱 Learning Technology & Innovation
-- 🧠 Love solving programming problems
-- 📫 Email: mostarshidbillah@gmail.com
-- 🌍 Dhaka, Bangladesh
+- 🎓 CSE Student
+- 💻 Passionate Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently Learning New Technologies
+- 🚀 Love Building Real Projects
+- 📍 Dhaka, Bangladesh
+- 📫 mostarshidbillah@gmail.com
 
 <br>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/mostarshid">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mostar-shid-billah-a231572bb/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://www.facebook.com/mostarshidbillah.billah.5/">
@@ -50,7 +52,7 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
 </a>
 
-<a href="mostarshidbillah@gmail.com">
+<a href="mailto:mostarshidbillah@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
@@ -58,9 +60,9 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 ---
 
-# 💻 Programming Languages
+# 💻 Languages
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
@@ -78,7 +80,7 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 # 🎨 Frontend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html"/>
 
@@ -94,9 +96,9 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 ---
 
-# ⚙️ Backend
+# ⚙ Backend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
@@ -108,9 +110,9 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 ---
 
-# 🗄️ Database
+# 🗄 Database
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
@@ -120,9 +122,9 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 ---
 
-# 🛠️ Tools
+# 🛠 Tools
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -132,6 +134,8 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 <img src="https://skillicons.dev/icons?i=linux"/>
 
+<img src="https://skillicons.dev/icons?i=postman"/>
+
 </p>
 
 ---
@@ -140,9 +144,9 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mostarshid&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mostarshid&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostarshid&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostarshid&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -152,17 +156,17 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mostarshid&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mostarshid&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mostarshid&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mostarshid&theme=onestar&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -172,19 +176,7 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostarshid&theme=react-dark"/>
-
-</p>
-
----
-
-# 🐍 Snake Animation
-
-> Enable GitHub Actions first.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mostarshid/mostarshid/output/github-contribution-grid-snake.svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostarshid&theme=github-dark"/>
 
 </p>
 
@@ -192,37 +184,23 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 # 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 AI/ML Project |
-| 🌐 Web Project | Full Stack Application |
-| 📱 Mobile App | Django Application |
+| 🚀 Project | Description |
+|------------|-------------|
+| 🤖 AI Project | Machine Learning Applications |
+| 🌐 Web Project | Full Stack Web Applications |
+| 🐍 Python Project | Automation & Desktop Apps |
 
 ---
 
-# ✍️ Random Dev Quote
+# ✍ Random Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-# 😂 Random Dev Joke
+# 😂 Random Programming Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-
-# ☕ Support Me
-
-<p>
-
-<a href="https://www.buymeacoffee.com/mostarshid">
-
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
-
-</a>
-
-</p>
 
 ---
 
@@ -234,6 +212,6 @@ Computer Science & Engineering Student | Passionate Full Stack Web Developer | A
 
 <h3 align="center">
 
-Have a Nice Day ❤️
+💙 Happy Coding!
 
 </h3>
