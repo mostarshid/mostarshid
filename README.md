@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:111827,50:7c3aed,80:06b6d4,100:00f5ff&text=Mostar-Shid%20Billah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%80%A2%20CSE%20Student%20%E2%80%A2%20Future%20Full%20Stack%20Developer&descAlignY=60" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:111827,50:7c3aed,80:06b6d4,100:00f5ff&text=Mostar-Shid%20Billah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%80%A2%20CSE%20Student%20%E2%80%A2%20Aspiring%20Data%20Analyst%20&descAlignY=60" alt="Banner"/>
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Student;Passionate+Full+Stack+Developer;AI-ML+Enthusiast;Always+Learning+New+Things"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=CSE++Student;Passionate+Data+Analyst;AI-ML+Enthusiast;Always+Learning+New+Things"
     alt="Typing SVG"
   />
 </div>
@@ -33,9 +33,8 @@
   
 🎓 <b>Computer Science & Engineering Student</b>
 
-💡 <b>Interests:</b> Full Stack Development, AI/ML, Open Source
-
-🎯 <b>Goal:</b> Become a skilled Full Stack Software Engineer and build impactful products.
+💡 <b>Interests:</b> Data Analyst | AI/ML Enthusiast | Data Science Learner | Open Source Contributor
+🎯 <b>Goal:</b> Become a skilled Data Analyst and turn data into actionable insights.
 
 🌍 <b>Location:</b> Dhaka, Bangladesh
 
@@ -45,8 +44,8 @@
 <b>🔥Quick Facts</b>
 
 - 🌱 Learning something new every day
-- 🚀 Building real-world projects
-- 💻 Love clean UI & scalable backend architecture
+- 🚀 Building real-world data analytics projects.
+- 💻 Turning raw data into data-driven decisions.
 - 🤝 Open to collaboration on Open Source projects
 - ⚡ Fun fact: I enjoy turning ideas into reality through code.
 </div>
@@ -54,58 +53,84 @@
 
 ---
 
-
-## <div align="left">💻Technical Stack
-
-### <div align="left"> 🚀 Frontend
 <div align="left">
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</p>
+
+## 💻 Technical Stack
 </div>
 
-### <div align="left"> ⚙️ Backend
 <div align="left">
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-<img src="https://img.shields.io/badge/Django-FFCA28?style=for-the-badge&logo=django&logoColor=black" alt="Django"/>
-</p>
+  
+### 📊 Data Analytics
 </div>
 
-### <div align="left"> 🗄️ Database
-<div align="left">
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
-</div>
 
-### <div align="left"> 🧠 Programming Languages
 <div align="left">
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-</div>
+  
 
-### <div align="left"> 🛠️ Tools
-<div align="left">
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+  
+### 🧠 Languages
 </div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Javascript"/>
+</p>
+<div align="left">
+  
+### 🤖 AI & Machine Learning
+</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
+<div align="left">
+  
+### 🗄️ Databases
+</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+<div align="left">
+  
+### 📈 Data Visualization
+</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+<div align="left">
+  
+### 🛠️ Tools
+</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Vercel-F37626?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Figma-F37626?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Latex-F37626?style=for-the-badge&logo=latex&logoColor=white" alt="Latex"/>
+</p>
+
 
 ---
 ## <div align="center"> 📫 Let's Connect
@@ -164,24 +189,6 @@
 
 
 
-## <div align="left"> 💻 Development Environment
-
-<div align="left">
-
-```yaml
-Editor              : VS Code
-Operating System    : Windows 11
-Browser             : Google Chrome
-Version Control     : Git + GitHub
-Terminal            : PowerShell
-```
-
-</div>
-
----
-
-
-
 ---
 
 ## ✨ Random Dev Quote
@@ -194,13 +201,6 @@ Terminal            : PowerShell
 
 ---
 
-<div align="center">
 
-### 💙 Thanks for visiting my profile!
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,20:111827,50:7c3aed,80:06b6d4,100:00f5ff" alt="Footer"/>
-
-</div>
 
 
